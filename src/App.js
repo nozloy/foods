@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import React from 'react'
+import Topbar from './layouts/topbar.js'
+import Card from './layouts/card'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div className='App bg-slate-800 max-h-full h-screen'>
+			<div className='max-w-4xl flex flex-col mx-auto rounded-2xl max-h-full h-screen shadow-xl shadow-slate-600'>
+				<Topbar />
+				<div className='flex justify-center'>
+					<Card />
+				</div>
+			</div>
+		</div>
+	)
 }
 
-export default App;
+export default App
