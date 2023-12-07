@@ -2,7 +2,7 @@ const Sushi = [
     {
         id: 1,
         name: 'Филадельфия',
-        price: 123,
+        price: 550,
         img: 'filadelfia.png',
         first: 'default',
         second: 'default',
@@ -11,7 +11,7 @@ const Sushi = [
     {
         id: 2,
         name: 'Калифорния',
-        price: 123,
+        price: 430,
         img: 'californiaroll.png',
         first: 'default',
         second: 'default',
@@ -20,7 +20,7 @@ const Sushi = [
     {
         id: 3,
         name: 'Бонито',
-        price: 123,
+        price: 820,
         img: 'bonito.png',
         first: 'default',
         second: 'default',
@@ -29,7 +29,7 @@ const Sushi = [
     {
         id: 4,
         name: 'Мияги',
-        price: 123,
+        price: 410,
         img: 'miyagi.png',
         first: 'default',
         second: 'default',
@@ -38,7 +38,7 @@ const Sushi = [
     {
         id: 5,
         name: 'Цезарь',
-        price: 123,
+        price: 660,
         img: 'californiaroll.png',
         first: 'default',
         second: 'default',
@@ -47,7 +47,7 @@ const Sushi = [
     {
         id: 6,
         name: 'Шримп ролл',
-        price: 123,
+        price: 540,
         img: 'filadelfia.png',
         first: 'default',
         second: 'default',
@@ -56,7 +56,7 @@ const Sushi = [
     {
         id: 7,
         name: 'Снэк ролл',
-        price: 123,
+        price: 320,
         img: 'filadelfia.png',
         first: 'default',
         second: 'default',
@@ -65,7 +65,7 @@ const Sushi = [
     {
         id: 8,
         name: 'Сливочный угорь',
-        price: 123,
+        price: 490,
         img: 'filadelfia.png',
         first: 'default',
         second: 'default',
@@ -74,7 +74,7 @@ const Sushi = [
     {
         id: 9,
         name: 'Острый краб',
-        price: 123,
+        price: 900,
         img: 'californiaroll.png',
         first: 'default',
         second: 'default',
@@ -83,7 +83,7 @@ const Sushi = [
     {
         id: 10,
         name: 'Копченый лосось',
-        price: 123,
+        price: 410,
         img: 'classic.png',
         first: 'default',
         second: 'default',
